@@ -16,6 +16,10 @@ Here we have examined how two different commodities, oil and gold, performed ove
 
 # How does the volatility of prices compare and what is the correlation between Oil and Gold?
   Over the past 5 years, Oil had an average price of $63.39 per Barrel with the 25% quartile at $53 and the 75% quartile at almost $75 per barrel. Gold on the other hand had an average price of $1,724 per ounce with the 25% quartile at $1,336 and the 75% quartile of 1,819 per ounce. While there were no outliers for Gold, there were a total of 67 outliers within the Oil price data. Even when removing outliers, there is a weak but positive correlation between the prices of Oil and Gold. Both are very different commodities, used for very different things but ultimately impacted by the state of the economy.
+
+  We found there is a very weak but positive correlation between the prices of Oil and Gold. Both are very different commodities, used for very different things but ultimately impacted by the state of the economy. We can also see from the low R-Squared of 0.014 that there is a weak linear relationship between the two data sets.
+
+  We also analyzed the relationship between the volumes of gold and oil traded over time. We have a stronger but still weak positive correlation between the two sets of volumes at 0.21. Additionally, the R-squared has improved slightly, but not meaningfully to 0.045 indicating the regression line does not fit the data well. Given these two commodities are used by different consumers for unrelated reasons, this makes sense as the main driving force of volumes traded that they share is strength of the overall market.
   
   <img width="480" alt="image" src="https://user-images.githubusercontent.com/120406452/218624293-68afba7c-0fa4-4524-93ce-01047ad73301.png">
   
