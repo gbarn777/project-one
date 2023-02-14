@@ -1,5 +1,5 @@
-Project One Write Up
-Grace Barnett, Sheila Brito, Cameron Leslie, Janki Shah
+# Project One Write Up
+# Grace Barnett, Sheila Brito, Cameron Leslie, Janki Shah
 
 Here we have examined how two different commodities, oil and gold, performed over the past 5 years. We looked at price, volume traded, and overall volatitlity of each in order to establish a correlation between the two. 
 
