@@ -1,7 +1,7 @@
 # Project One Write Up
 # Grace Barnett, Sheila Brito, Cameron Leslie, Janki Shah
 
-Here we have examined how two different commodities, oil and gold, performed over the past 5 years. We looked at price, volume traded, and overall volatitlity of each in order to establish a correlation between the two. 
+Here we have examined how two different commodities, oil and gold, performed over the past 5 years in the stock market. We looked at price, volume traded, and overall volatitlity of each in order to establish a correlation between the two. 
 
 # How have the prices of Oil and Gold changed over the past 5 years?
   The price of both Oil and Gold have both increased throughout the time period we examined. Gold was traded at a much higher, more inconsistent rate and saw prices almost double from 2018 to 2023. Oil was traded a bit more consistently, and at a much lower price point but still saw an overall increase in price. 
@@ -9,9 +9,10 @@ Here we have examined how two different commodities, oil and gold, performed ove
   <img width="480" alt="image" src="https://user-images.githubusercontent.com/120406452/218624066-5ccbb89f-afe6-4226-9f65-abcc2cbb3eca.png">
 
 # When did each commodity experience the highest trading volumes? 
-  Gold saw the highest trading volume in the second quarter of 2020. Oil saw the highest trading volume in the first quarter of 2022. 
-  
+  Gold saw its highest trading volume in the third quarter of 2019. It's second highest peak is on the third quarter of 2020 and has bsince been followed by a decrease of volume, this can be due to the increase in price since 2020 Q3.
   <img width="480" alt="image" src="https://user-images.githubusercontent.com/120406452/218624103-6f81691d-7c20-4037-9b69-7fe97a08d2ee.png">
+
+Oil commodity was mostly traded in the first quarter of 2020 and saw great decrease the following years while its price greatly increased.
   <img width="480" alt="image" src="https://user-images.githubusercontent.com/120406452/218624127-bba5bc4b-8c2e-466a-9802-83f878eccc77.png">
 
 # How does the volatility of prices compare and what is the correlation between Oil and Gold?
