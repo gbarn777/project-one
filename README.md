@@ -10,7 +10,11 @@ Here we have examined how two different commodities, oil and gold, performed ove
 
 # When did each commodity experience the highest trading volumes? 
   Gold saw its highest trading volume in the third quarter of 2019. It's second highest peak is on the third quarter of 2020 and has bsince been followed by a decrease of volume, this can be due to the increase in price since 2020 Q3.
-  <img width="480" alt="image" src="https://user-images.githubusercontent.com/120406452/218624103-6f81691d-7c20-4037-9b69-7fe97a08d2ee.png">
+  ![Max_Gold_Prices_Quarterly](https://user-images.githubusercontent.com/120340433/219074580-35e855ed-7b47-4f87-941f-9e8669952afb.png)
+![Total_Gold_Volume_Quarterly](https://user-images.githubusercontent.com/120340433/219074643-be92efe8-0765-4fbc-b99a-e3792bb8f6b4.png)
+
+  Gold saw its highest trading volume in the third quarter of 2019. It's second highest peak is on the third quarter of 2020 and has bsince been followed by a decrease of volume, this can be due to the increase in price since 2020 Q3.
+  Gold saw its highest trading volume in the third quarter of 2019. It's second highest peak is on the third quarter of 2020 and has bsince been followed by a decrease of volume, this can be due to the increase in price since 2020 Q3.
 
 Oil commodity was mostly traded in the first quarter of 2020 and saw great decrease the following years while its price greatly increased.
   <img width="480" alt="image" src="https://user-images.githubusercontent.com/120406452/218624127-bba5bc4b-8c2e-466a-9802-83f878eccc77.png">
