@@ -9,15 +9,18 @@ Here we have examined how two different commodities, oil and gold, performed ove
   <img width="480" alt="image" src="https://user-images.githubusercontent.com/120406452/218624066-5ccbb89f-afe6-4226-9f65-abcc2cbb3eca.png">
 
 # When did each commodity experience the highest trading volumes? 
-  Gold saw its highest trading volume in the third quarter of 2019. It's second highest peak is on the third quarter of 2020 and has bsince been followed by a decrease of volume, this can be due to the increase in price since 2020 Q3.
-<img width="480" alt="image" src="https://user-images.githubusercontent.com/120340433/219074580-35e855ed-7b47-4f87-941f-9e8669952afb.png"
-<img width="480" alt="image" src="https://user-images.githubusercontent.com/120340433/219074643-be92efe8-0765-4fbc-b99a-e3792bb8f6b4.png"
+  Gold Price and Volume
+  
+Gold saw its highest trading volume in the third quarter of 2019 as the world started seeing the effects of COVID in China, increasing people's uncertainty for the future and causing a change towards safer assets like gold commodity. It's second highest peak is on the third quarter of 2020 and has since been followed by a decrease of volume, this can be due to the increase in price of gold commodity since 2020 Q3.
 
-  Gold saw its highest trading volume in the third quarter of 2019. It's second highest peak is on the third quarter of 2020 and has bsince been followed by a decrease of volume, this can be due to the increase in price since 2020 Q3.
-  Gold saw its highest trading volume in the third quarter of 2019. It's second highest peak is on the third quarter of 2020 and has bsince been followed by a decrease of volume, this can be due to the increase in price since 2020 Q3.
+ <img width="480" alt="image" src="https://user-images.githubusercontent.com/120340433/219075363-22ef8e7a-2585-4aa9-a0a1-e1132ff5f208.png"> <img width="480" alt="image" src="https://user-images.githubusercontent.com/120340433/219075418-6eb67330-a908-45ba-9399-6c924f79c11c.png">
 
-Oil commodity was mostly traded in the first quarter of 2020 and saw great decrease the following years while its price greatly increased.
-  <img width="480" alt="image" src="https://user-images.githubusercontent.com/120406452/218624127-bba5bc4b-8c2e-466a-9802-83f878eccc77.png">
+  Oil Price and Volume
+  
+Oil commodity was mostly traded in the first quarter of 2020 and saw great decrease the following years while its price greatly increased. The price of Oil greatly decreased in 2020 due to COVID lockdowns around the world however volume of oil commodity didn't increase during this year. During and after 2021 the price of oil has increased while its volume has kept decreasing until today.
+
+ <img width="480" alt="image" src="https://user-images.githubusercontent.com/120340433/219075777-89abbe4b-c7c3-4c01-afd8-962c1f7458fa.png"> <img width="480" alt="image" src="https://user-images.githubusercontent.com/120340433/219075841-11c4de79-5588-42c8-a259-888963b38d4c.png">
+
 
 # How does the volatility of prices compare and what is the correlation between Oil and Gold?
   Over the past 5 years, Oil had an average price of $63.39 per Barrel with the 25% quartile at $53 and the 75% quartile at almost $75 per barrel. Gold on the other hand had an average price of $1,724 per ounce with the 25% quartile at $1,336 and the 75% quartile of 1,819 per ounce. While there were no outliers for Gold, there were a total of 67 outliers within the Oil price data. Even when removing outliers, there is a weak but positive correlation between the prices of Oil and Gold. Both are very different commodities, used for very different things but ultimately impacted by the state of the economy.
